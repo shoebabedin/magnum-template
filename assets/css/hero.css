@@ -1,0 +1,72 @@
+.hero .row {
+  align-items: center;
+}
+.hero .left-hero {
+  max-width: 546px;
+  width: 100%;
+  margin-left: auto;
+  vertical-align: middle;
+}
+.hero .left-hero h2 {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 60px;
+  color: #0c1e39;
+  margin-bottom: 16px;
+}
+.hero .left-hero p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #6f7a8b;
+}
+.hero .left-hero .review {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.hero .left-hero .review ul {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 4px;
+  padding-left: 0;
+}
+.hero .left-hero .review ul li i {
+  color: #ff9800;
+}
+.hero .left-hero .review ul {
+}
+.hero .left-hero .review p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #0c1e39;
+}
+.hero .left-hero .review p span {
+  color: #6f7a8b;
+}
+.hero .left-hero .hero-btn {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px;
+  margin-top: 40px;
+}
+.hero .left-hero .hero-btn .btn {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 150%;
+  padding: 16px;
+  border-radius: 8px;
+}
+.hero .left-hero .hero-btn .live-preview {
+  color: #0c1e39;
+  border: 1px solid #0c1e39;
+}
+.hero .left-hero .hero-btn .buy-now {
+  background: #7f56d9 !important;
+  border: 1px solid #7f56d9;
+  color: #ffffff;
+}

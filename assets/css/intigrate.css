@@ -1,0 +1,25 @@
+.intigrate-section {
+  background: #373754;
+  padding: 80px 0;
+}
+.intigrate-section h2 {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 150%;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+.intigrate-section h6 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  text-align: center;
+  color: #6f7a8b;
+  margin-bottom: 64px;
+}
+.intigrate-section .intigrate-slider img {
+  width: 100%;
+  object-fit: cover;
+  image-rendering: optimizeQuality;
+}

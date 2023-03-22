@@ -1,0 +1,49 @@
+.future {
+  padding: 80px 0;
+}
+.future h2 {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 150%;
+  color: #0c1e39;
+  margin-bottom: 1rem;
+}
+.future h6 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  text-align: center;
+  color: #6f7a8b;
+  margin-bottom: 64px;
+}
+.future .future-item {
+  border: 1px solid #f3f3f3;
+  border-radius: 10px;
+  padding: 16px;
+  margin-bottom: 40px;
+}
+.future img {
+  margin-bottom: 24px;
+}
+.future h4 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  color: #0c1e39;
+  margin-bottom: 16px;
+}
+.future p {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 150%;
+  color: #6f7a8b;
+}
+
+/* responsive */
+@media (min-width: 1024px) and (max-width: 1400px) {
+}
+@media (min-width: 649px) and (max-width: 991px) {
+}
+@media (min-width: 320px) and (max-width: 649px) {
+}
+/* responsive */
